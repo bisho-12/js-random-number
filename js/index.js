@@ -2,40 +2,24 @@ var Quotes =
 [
 
         {          
-             quote: "“Be yourself; everyone else is already taken.”",
-             source: "― Oscar Wilde"
+             quote: "“كَانَ الرَّبُّ مَعَ يُوسُفَ فَكَانَ رَجُلًا نَاجِحًا”",
+             source: "― (سفر التكوين 39: 2)"
 
         },
 
 
 
 {
-        quote:" “So many books, so little time.”",
-        source:"― Albert Einstein"
+        quote:" “لأن الله لم يعطناروح الفشل بل روح المحبة و القوة و النصح”",
+        source:"رسالة تيموثاوس الثانية 1: 7 "
 
 },
 
 
 {
 
-        quote:"“A room without books is like a body without a soul.”",
-        source:"― Marcus Tullius Cicero"
-},
-
-
-
-
-
-{
-        quote:"“You only live once, but if you do it right, once is enough.”",
-        source:"― Mae West"
-},
-
-
-
-{
-        quote:"“Be the change that you wish to see in the world.”",
-        source:"― Mahatma Gandhi"
+        quote:"“الرَّبُّ رَاعِيَّ فَلاَ يُعْوِزُنِي شَيْءٌ”",
+        source:"سفر المزامير 23: 1"
 },
 
 
@@ -43,25 +27,42 @@ var Quotes =
 
 
 {
-        quote:"“In three words I can sum up everything I've learned about life: it goes on.”",
-        source:"― Robert Frost"
+        quote:"“لرَّبُّ نُورِي وَخَلاَصِي، مِمَّنْ أَخَافُ؟ الرَّبُّ حِصْنُ حَيَاتِي، مِمَّنْ أَرْتَعِبُ؟”",
+        source:"سفر المزامير 27: 1"
 },
 
 
 
 {
-        quote:"“If you tell the truth, you don't have to remember anything.”",
-        source:"― Mark Twain"
+        quote:"“انْتَظِرِ الرَّبَّ. لِيَتَشَدَّدْ وَلْيَتَشَجَّعْ قَلْبُكَ، وَانْتَظِرِ الرَّبَّ”",
+        source:"سفر المزامير 27: 14"
+},
+
+
+
+
+
+{
+        quote:"“الرَّبُّ يَهْتَمُّ بِي. عَوْنِي وَمُنْقِذِي أَنْتَ. يَا إِلهِي لاَ تُبْطِئْ”",
+        source:" سفر المزامير 40: 17"
 },
 
 
 
 {
-        quote:"“A friend is someone who knows all about you and still loves you.”",
-        source:"―  Elbert Hubbard"
+        quote:"“عَلَى اللهِ تَوَكَّلْتُ فَلاَ أَخَافُ. مَاذَا يَصْنَعُهُ بِي الإِنْسَانُ؟”",
+        source:"سفر المزامير 56: 11"
+},
+
+
+
+{
+        quote:"“الرَّبُّ لِي فَلاَ أَخَافُ. مَاذَا يَصْنَعُ بِي الإِنْسَانُ؟”",
+        source:" سفر المزامير 118: 6"
 },
 ]
         
+
          function newQuotes()
          {
                 for (var i = 0; i < Quotes.length; i++)
